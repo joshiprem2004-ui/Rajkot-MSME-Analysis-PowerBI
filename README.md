@@ -19,5 +19,4 @@ To understand MSME growth, sector distribution, and area-wise concentration in R
 ## Dashboard Preview
 ![Dashboard](dashboard.jpg)
 
-## Demo Video
-[Click here to watch the dashboard demo](PASTE_VIDEO_LINK_HERE)
+
